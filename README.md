@@ -1,5 +1,5 @@
 # Overview
-This repository consists of data and code for estimating inhaled Particulate matter: PM<sub>_1</sub>, PM<sub>2.5</sub> and gases: Carbon dioxide (CO2), Nitrogen dioxide (NO2) and Nitric Oxide (NO).  
+This repository consists of data and code for estimating inhaled Particulate matter: PM<sub>1</sub>, PM<sub>2.5</sub> and gases: Carbon dioxide (CO2), Nitrogen dioxide (NO2) and Nitric Oxide (NO).  
 
 The estimation of the pollutants using all the features is named as follows: 
 For PM<sub>1</sub>: "PM1-all features.ipynb"\
