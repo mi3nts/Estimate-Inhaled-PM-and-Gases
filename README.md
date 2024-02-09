@@ -35,4 +35,4 @@ howpublished={https://github.com/mi3nts/Estimate-Inhaled-PM-and-Gases},
 year={2024},
 }
 ```
-The PM<sub>1<\sub> and NO dataset is also in Zenodo:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10639498.svg)](https://doi.org/10.5281/zenodo.10639498)
+The PM<sub>1</sub> and NO dataset is also in Zenodo:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10639498.svg)](https://doi.org/10.5281/zenodo.10639498)
