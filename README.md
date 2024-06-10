@@ -23,7 +23,7 @@ The dataset used here are:\
 For PM<sub>1</sub>: "full_df_static_2-18-23.pkl"\
 For PM<sub>2.5</sub>: "static_bike_ride_pm.pkl"\
 For CO2: "full_df_2021_CO2.pkl"\
-For NO2 and NO "full_df_2021_NOX.pkl". Note that the data for NO2 and NO needs to be cleaned. The cleaning is done in the correspondind notebook.
+For NO2 and NO "full_df_2021_NOX.pkl". Note that the data for NO2 and NO needs to be cleaned. The cleaning is done in the corresponding notebook.
 
 The citation of the dataset or the code can be done using the following
 Bibtex:
