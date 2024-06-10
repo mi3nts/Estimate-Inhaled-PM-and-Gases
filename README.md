@@ -6,7 +6,7 @@ For PM<sub>1</sub>: "PM1-all features.ipynb"\
 For PM<sub>2.5</sub>: "PM2_5 new-all features.ipynb"\
 For CO2: "CO2 new-all features.ipynb"\
 For NO2 "NO2 new-all features.ipynb"\
-For NO: "NO new-all features.ipynb"\
+For NO: "NO new-all features.ipynb"
 
 The estimation of the pollutants using reduced number of features is named as follows: 
 For PM<sub>1</sub>: "PM1-few features.ipynb"\
